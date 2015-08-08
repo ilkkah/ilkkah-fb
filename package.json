@@ -7,7 +7,7 @@
     "fb",
     "graph"
   ],
-  "version": "0.7.3",
+  "version": "0.7.5",
   "homepage": "https://github.com/ilkkah/ilkkah-fb",
   "repository": {
     "type": "git",
@@ -17,8 +17,8 @@
     "node": ">=0.6.9"
   },
   "dependencies": {
-    "request": "2.9.x",
-    "crypto": "0.0.3"
+    "request": "*",
+    "crypto": "*"
   },
   "devDependencies": {
     "nock": "~0.17.2",
